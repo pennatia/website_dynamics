@@ -1,0 +1,7 @@
+.page__footer {
+    color: var(--orange);
+}
+
+.page__footer p {
+    margin: 0;
+}

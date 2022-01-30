@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on pennatia</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on pennatia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021 Angelo Pennati</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/post/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/post/</guid>
+      <description>sadas</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/posts2/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/posts2/</guid>
+      <description>This is also a simple post.</description>
+    </item>
+    
+    <item>
+      <title>Notebook 3</title>
+      <link>http://localhost:1313/posts/homework-3/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/homework-3/</guid>
+      <description>Homework 3pre { line-height: 125%; }td.linenos .normal { color: var(--black); background-color: var(--black); padding-left: 5px; padding-right: 5px; }span.linenos { color: var(--black); background-color: var(--black); padding-left: 5px; padding-right: 5px; }td.linenos .special { color: #000000; background-color: var(--black); padding-left: 5px; padding-right: 5px; }span.linenos.special { color: #000000; background-color: var(--black); padding-left: 5px; padding-right: 5px; }.highlight .hll { background-color: var(--black) }.highlight { background: var(--jp-cell-editor-background); color: var(--jp-mirror-editor-variable-color) }.highlight .c { color: var(--jp-mirror-editor-comment-color); font-style: italic } /* Comment */.</description>
+    </item>
+    
+  </channel>
+</rss>
